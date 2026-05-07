@@ -1,5 +1,7 @@
 wait
 
+New features coming soon 🔄
+-> https://kryosette.vercel.app/self-university
 <!--
 
 **Here are some ideas to get you started:**
