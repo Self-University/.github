@@ -1,4 +1,4 @@
-wait
+wait for some new mini-courses 
 
 New features coming soon 🔄
 -> https://kryosette.vercel.app/self-university
