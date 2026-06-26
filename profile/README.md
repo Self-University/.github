@@ -1,5 +1,12 @@
 ## 🎓 SELF UNIVERSITY 
 
+💡 You can pick any feature from the list below — tasks can include:
+- **Optimization**  
+- **Bug fixes** 
+- **Security hardening**  
+- **UI/UX improvements** 
+
+
 ### 🧩 Puzzles / Practicum Arena
 - **Difficulty levels:** easy, medium, hard
 - **Stack-Based mechanic:** each puzzle has multiple stacks (Stack 1, Stack 2, Stack 3, Stack 4) — you must select the correct answer for each stack
