@@ -1,4 +1,4 @@
-## 🎓 SELF UNIVERSITY — Tasks
+## 🎓 SELF UNIVERSITY 
 
 ### 🧩 Puzzles / Practicum Arena
 - **Difficulty levels:** easy, medium, hard
@@ -226,24 +226,3 @@
 - **Voting** on submissions
 - **Admin panel:** reply to submissions, change status
 - **Delete** your own submissions
-
----
-
-### 🔐 Authentication
-- **Clerk** for authentication (Sign In / Sign Up)
-- **Webhook** for syncing users with Convex
-- **Route protection** — redirect to sign-in for unauthenticated users
-
----
-
-### 📊 Analytics & Data
-- **Convex** as real-time database
-- **Tables:** users, submissions, followers, achievements, puzzles, shopItems, userInventory, duels, notifications, discussions, comments, posts, polls, groupChats, chatMessages, dailyLogins, bookmarks, notes, feedback, and more
-- **Indexes** for fast queries
-
----
-
-### 📱 Mobile-First Design
-- Fully responsive interface
-- Mobile Navigation (hamburger menu)
-- Optimized for mobile devices
